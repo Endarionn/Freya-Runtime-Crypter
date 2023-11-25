@@ -1,0 +1,22 @@
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya_Runtime_Crypter.Form1.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya_Runtime_Crypter.Properties.Resources.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.GenerateResource.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\bin\Debug\Freya Runtime Crypter.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya_Runtime_Crypter.Form1.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya_Runtime_Crypter.Properties.Resources.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.GenerateResource.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Runtime Crypter\Freya Runtime Crypter\obj\Debug\Freya Runtime Crypter.pdb
